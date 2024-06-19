@@ -1,0 +1,4 @@
+# Darknet Traffic Classification Using Machine Learning
+The Darknet is an overlay network that is difficult to access. It requires special software to prevent tracking by Internet Service Providers (ISP) and malicious actors. It is often associated with illegal activities. Therefore, a study was conducted on classifying Darknet Traffic using Machine Learning to detect user behaviors and identify potentially harmful activities. The CIC-Darknet2020 dataset was utilized, comprising 8 classes of user behavior. It is Browsing, Chat, Email, File-Transfer, P2P, Audio, Video, and VoIP. Due to the dataset’s imbalance, SMOTE and ADASYN techniques were employed. After applying Machine Learning, it was observed that Random Forest achieved the highest accuracy in all experiments, reaching up to 93.1%.
+
+### Link: https://ieeexplore.ieee.org/document/10532668
